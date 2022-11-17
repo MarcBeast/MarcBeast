@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manily
+- 👋 Hi, I’m @Manily04
 - 👀 I’m interested in Gaming and PC Stuff
 - 📫 How to reach me: manily04@gmx.de
 - 🧰 Programming mostly in CMD with batch files
