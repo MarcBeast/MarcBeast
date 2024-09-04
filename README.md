@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Manily04
 - 👀 I’m interested in Gaming and PC Stuff
 - 📫 How to reach me: manily04@gmx.de
-- 💕 I Love to code with [my cute litle boi](https://github.com/howeswarderbutcool)
+- 💕 I Love to code with [my cute boi](https://github.com/howeswarderbutcool)
 - 🧰 "Programming" mostly in CMD with batch files
 - 🤓 Every project here is the result of sheer boredom, and has gotten better over time because I wanted to make it big
 - 🌟 Femboy
